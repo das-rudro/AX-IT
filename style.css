@@ -567,14 +567,6 @@ pricing-wrapper
     padding-left: 15px;
 }
 
-.basic{
-    margin-top: 90px;
-}
-
-.profe{
-    margin-top: 45px;
-}
-
 .card-list{
     border-top: none;
 }
@@ -587,6 +579,13 @@ pricing-wrapper
     font-size: 18px;
     padding: 16px 0px;
 }
+
+.table-form{
+    margin-top: 60px;
+    align-items: flex-end;
+}
+
+
 
 
 /************
