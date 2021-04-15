@@ -721,8 +721,7 @@ contact-wrapper
     color: gray;
 }    
 
-
-.message-right{
+textarea{
     resize: none;
     width: 100%;
     height: 182px;
@@ -733,7 +732,9 @@ contact-wrapper
     outline: none;
 }
 
-
+textarea::placeholder{
+    color:gray
+}
 
 
 .content-btn{
