@@ -57,9 +57,9 @@ banner section
 
 .baner-text-left h1{
     font-family: 'Raleway', sans-serif;
-    font-weight: 400;
+    font-size:32px;
+    font-weight: 600;
     color: #ffffff;
-    width: 80%;
     margin-top: 18px;
 }
 
