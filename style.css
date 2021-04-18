@@ -50,7 +50,7 @@ banner section
 }
 
 .baner-text-left{
-    height: 120vh;
+    height: 100vh;
     display: table-cell;
     vertical-align: middle;
 }
@@ -83,7 +83,7 @@ banner section
 
 .banner-form{
     display: table-cell;
-    height: 120vh;
+    height: 100vh;
     vertical-align: middle;
     width: 100%;
 }
