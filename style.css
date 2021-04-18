@@ -32,6 +32,9 @@ header{
     transition: 0.3s;
 }
 
+.navbar-toggler-icon{
+    color: whitesmoke !important;
+}
 
 
 /**************
