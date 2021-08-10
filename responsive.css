@@ -1,0 +1,268 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+
+    .banner-form{
+        margin-left: -52px;
+    }
+
+    .baner-text-left h1 {
+        font-size: 22px;
+    }
+
+    .baner-text-left p {
+        font-size: 16px;
+    }
+
+    .tab-middle{
+        margin-left: 30px;
+    }
+
+    .img-fluid {
+        margin-top: 98px;
+    }
+
+    .design h2 {
+        font-size: 16px;
+        font-weight: 900;
+    }
+
+    .text-design {
+        padding: 23% 0%;
+    }
+
+    .footer {
+        height: 13vh;
+    }
+
+    .awesome-top p {
+        font-size: 22px;
+    }
+
+    .box p {
+        font-size: 18px;
+    }
+
+    .design p {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+
+   
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+
+    .banner{
+        height: auto;
+        padding: 32px 0px;
+    }
+    .baner-text-left{
+        height: auto;
+        text-align: center;
+    }
+    .baner-text-left img{
+        margin: 24px 74px;
+    }
+    .baner-text-left h1{
+        font-size: 22px;
+        padding: 0px 8px;
+    }
+    .line{
+        margin: 18px auto;
+    }
+    .baner-text-left p{
+        width: auto;
+    }
+    .banner-right{
+        width: auto;
+        height: auto;
+    }
+    .banner-form{
+        margin-top: 24px;
+        margin-left: -3px;
+    }
+    .s-media{
+        width: auto;
+        height: auto;
+    }
+    .s-content-left{
+        width: auto;
+        text-align: center;
+    }
+    .s-content-left p{
+        font-size: 15px;
+    }
+    .s-content-right i{
+        margin: 0px auto;
+        padding: 6px;
+    }
+    .list-group{
+        display: inline-block;
+    }
+    .list-group a{
+        padding: 44px 24px;
+        margin-left: 6px;
+    }
+    .tab-middle{
+        text-align: center;
+    }
+    .tab-middle h1{
+        font-size: 24px;
+        margin-top: 24px;
+    }
+    .tab-middle p{
+        width: auto;
+        font-size: 15px;
+    }
+    .tower-image img{
+        margin: 24px auto;
+    }
+
+    .title-wrapper{
+        width: auto;
+    }
+
+    .list{
+        overflow: hidden;
+    }
+
+    .list-reverse{
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .list-right-content{
+        width: auto;
+    }
+    .list-right-content h2{
+        font-size: 24px;
+    }
+    .list-right-content p{
+        font-size: 15px;
+    }
+    .content-right{
+        width: auto;
+    }
+    .icon-left{
+        margin: 16px 0px;
+    }
+    .list-image{
+        margin-left: 10px;
+    }
+
+    .gallery-content{
+        text-align: center;
+    }
+
+    .gallery-content h1{
+        font-size: 24px;
+        width: auto;
+    }
+
+    .gallery-content p{
+        font-size: 15px;
+        width: auto;
+    }
+
+    .awesome-wrapper{
+        text-align: center;
+    }
+
+    .awesome-top h1{
+        font-size: 24px;
+    }
+
+    .awesome-top p{
+        font-size: 15px;
+    }
+
+    .un-line{
+        margin: 12px auto;
+    }
+
+    .design i{
+        margin: 12px auto;
+    }
+    .design-wrapper-design{
+        margin: 24px 0px;
+    }
+
+    .basic{
+        margin: 24px 5px
+    }
+
+    .contact-wrapper{
+        overflow: hidden;
+    }
+
+    .footer{
+        height: auto;
+    }
+
+    .footer-icon i{
+        margin: auto;
+        padding: 8px;
+    }
+
+
+
+    
+  }
