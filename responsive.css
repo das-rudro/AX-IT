@@ -158,6 +158,9 @@
     .list-group{
         display: inline-block;
     }
+    .comment-one {
+    margin-bottom: 24px;
+    }
     .list-group a{
         padding: 44px 24px;
         margin-left: 6px;
