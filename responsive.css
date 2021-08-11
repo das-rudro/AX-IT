@@ -189,6 +189,10 @@
         flex-direction: column-reverse;
         text-align: center;
     }
+    
+    .list .row {
+      flex-direction: column-reverse;
+    }
     .list-right-content{
         width: auto;
         text-align: center;
